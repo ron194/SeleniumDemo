@@ -25,6 +25,8 @@ public class HelloApp {
         // Alternatively the same thing can be done like this
         // driver.navigate().to("http://www.google.com");
 
+
+
         // Find the text input element by its name
         WebElement element = driver.findElement(By.name("q"));
 
